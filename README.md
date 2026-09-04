@@ -1,41 +1,41 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFB6C1,50:EF93C4,100:D16BA5&height=200&section=header&text=Anushree%20Kanoongo&fontSize=42&fontColor=FFFFFF&fontAlignY=35&desc=AI/ML%20Engineer%20%7C%20Builder%20%7C%20Researcher&descSize=18&descAlignY=55&descColor=F8BBD0" width="100%"/>
+<!-- Header Wave -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FFB6C1,50:EF93C4,100:D16BA5&height=200&section=header&text=Anushree%20Kanoongo&fontSize=42&fontColor=FFFFFF&fontAlignY=35&desc=AI/ML%20Engineer%20%7C%20Full-Stack%20Dev%20%7C%20Researcher&descSize=16&descAlignY=55&descColor=F8BBD0" />
 
-<div align="center">
+<!-- Typing SVG -->
+<p align="center">
+  <a href="https://github.com/ANUSHREE-CYBER">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=24&duration=3500&pause=1000&color=F8BBD0&center=true&vCenter=true&width=650&lines=AI+%2F+ML+Engineer;Full+Stack+Developer;Published+Researcher+%F0%9F%8F%86;Open+Source+Enthusiast;building+things+that+matter+%F0%9F%8C%B8" alt="Typing SVG" />
+  </a>
+</p>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=24&duration=3500&pause=1000&color=F8BBD0&center=true&vCenter=true&width=650&lines=AI%2FML+Engineer+%40+AI+Gizmo;Published+Researcher+%7C+IEEE+Xplore;Python+%E2%80%A2+FastAPI+%E2%80%A2+Docker+%E2%80%A2+React;Building+things+that+matter+%F0%9F%8C%B8)](https://git.io/typing-svg)
-
-[![](https://img.shields.io/github/followers/ANUSHREE-CYBER?style=for-the-badge&logo=github&label=Followers&color=EF93C4)](https://github.com/ANUSHREE-CYBER?tab=followers)
-[![](https://img.shields.io/github/stars/ANUSHREE-CYBER?style=for-the-badge&logo=github&label=Stars&color=EF93C4)](https://github.com/ANUSHREE-CYBER?tab=repositories)
-[![](https://komarev.com/ghpvc/?username=ANUSHREE-CYBER&style=for-the-badge&color=EF93C4)](https://github.com/ANUSHREE-CYBER)
-
-</div>
+<!-- Badges -->
+<p align="center">
+  <img src="https://img.shields.io/github/followers/ANUSHREE-CYBER?style=for-the-badge&logo=github&label=Followers&color=EF93C4" />
+  <img src="https://img.shields.io/github/stars/ANUSHREE-CYBER?style=for-the-badge&logo=github&label=Stars&color=EF93C4" />
+  <img src="https://komarev.com/ghpvc/?username=ANUSHREE-CYBER&style=for-the-badge&color=EF93C4" />
+  <img src="https://img.shields.io/badge/OPEN%20TO-WORK%20%26%20COLLABS-FF69B4?style=for-the-badge" />
+</p>
 
 ---
 
-## 🌸 About Me
+## 👩‍💻 About Me
 
 <table>
 <tr>
-<td width="55%">
+<td>
 
-🔬 **AI/ML Engineer Intern** at [AI Gizmo](https://www.aigizmo.com/) (Birmingham, UK — Remote)
-
-🎓 Final-year **B.Tech CSE** (IoT & Intelligent Systems) at Manipal University Jaipur
-
-📄 **2 Research Publications** — IEEE Xplore (🏆 Best Paper Award, ICNDSA 2026) & IGI Global book chapter on hate speech detection
-
-🧠 Previously worked on **EEG/ECG biosignal classification** at MNIT MIIC
-
-🚀 Building production AI pipelines — from safety walkthrough videos to geometry diff engines
-
-🌏 Next goal: **South Korea** 🇰🇷
-
-✨ *If it can be automated, it should be — and it should look good doing it.*
+🔭 Building AI-powered tools that solve real-world problems  
+🧠 2x Published Researcher — **Best Paper Award** @ ICNDSA 2026 (IEEE Xplore)  
+📖 Currently learning **System Design**, **DSA** & **Cloud Architecture**  
+🏎️ F1 fan — nothing like a good race to reset the brain  
+🌸 Anime & manga enthusiast — always chasing the next great arc  
+💜 Proud BTS ARMY — OT7 forever  
+⚡ Fun fact: I debug better with K-pop on full volume  
 
 </td>
-<td width="45%" align="center">
+<td>
 
-<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="320"/>
+<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="280"/>
 
 </td>
 </tr>
@@ -43,110 +43,173 @@
 
 ---
 
-## 💻 Tech Stack
+## 🚀 What I'm Currently Up To
 
-<div align="center">
-
-[![My Skills](https://skillicons.dev/icons?i=python,fastapi,docker,react,typescript,tailwind,tensorflow,pytorch&perline=8)](https://skillicons.dev)
-
-[![My Skills](https://skillicons.dev/icons?i=git,github,vscode,linux,bash,mongodb,postgres,postman&perline=8)](https://skillicons.dev)
-
-</div>
+```text
+🔬 Research    →  Multimodal stress detection (biosignals + facial expressions)
+🛠️ Building    →  ShipGate — pre-shipment return-risk scorer for e-commerce
+📖 Learning    →  System Design · DSA · Cloud & DevOps
+📝 Published   →  Best Paper @ ICNDSA 2026 (IEEE) + IGI Global book chapter
+🎯 Goal        →  Create products that ship and actually get used
+```
 
 ---
 
-## 🚀 Featured Projects
+## 💻 Tech Stack
 
-<div align="center">
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,fastapi,docker,react,typescript,tailwind,mongodb,redis,vite,git,github,linux,vscode,figma&perline=14" />
+</p>
 
-<a href="https://github.com/ANUSHREE-CYBER/ShipGate">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=ANUSHREE-CYBER&repo=ShipGate&theme=react&bg_color=0D1117&border_color=EF93C4&icon_color=F8BBD0&title_color=EF93C4&text_color=FFFFFF" />
-</a>
-<a href="https://github.com/ANUSHREE-CYBER/stress-detection-wesad-ml">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=ANUSHREE-CYBER&repo=stress-detection-wesad-ml&theme=react&bg_color=0D1117&border_color=EF93C4&icon_color=F8BBD0&title_color=EF93C4&text_color=FFFFFF" />
-</a>
-<a href="https://github.com/ANUSHREE-CYBER/Archivum">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=ANUSHREE-CYBER&repo=Archivum&theme=react&bg_color=0D1117&border_color=EF93C4&icon_color=F8BBD0&title_color=EF93C4&text_color=FFFFFF" />
-</a>
-<a href="https://github.com/ANUSHREE-CYBER/VoterLantern">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=ANUSHREE-CYBER&repo=VoterLantern&theme=react&bg_color=0D1117&border_color=EF93C4&icon_color=F8BBD0&title_color=EF93C4&text_color=FFFFFF" />
-</a>
+---
 
-</div>
+## 💼 Where I've Worked
+
+```text
+🤖 AI Gizmo — AI/ML Engineer Intern                          2026 | Remote (Birmingham, UK)
+├── Built SafeClip: safety walkthrough videos → hazard action registers
+├── Built Fuse Documents: SVG/PDF geometry diff engine + AI change descriptions
+├── Production-grade pipelines with FastAPI, MongoDB, Redis
+└── Stack: Python · FastAPI · MongoDB · Redis · Gemini AI · OpenCV
+
+🌐 Upvalue Pvt Ltd — Frontend Dev Intern                      Jul–Nov 2026 | Jaipur
+├── Built SmartValue: multi-page responsive trade-in platform
+├── Designed full UI/UX in Figma with bilingual support (EN/HI)
+├── Deployed via Vercel CI/CD
+└── Stack: React 18 · TypeScript · Tailwind · Framer Motion · shadcn/ui
+
+🧠 MNIT MIIC — ML Research                                    2025 | Jaipur
+├── EEG/ECG biosignal classification for stress detection
+├── XGBoost + MobileNetV2 CNN multimodal pipeline
+└── Findings published → Best Paper Award @ ICNDSA 2026
+```
+
+---
+
+## 🏗️ Featured Projects
+
+<table>
+<tr>
+<td width="50%">
+
+### 🚀 [ShipGate](https://github.com/ANUSHREE-CYBER/ShipGate)
+Pre-shipment return-risk scorer for e-commerce  
+`XGBoost` `FastAPI` `SHAP` `React/Vite`  
+*Razorpay AI Buildathon 2026 — Track 02*
+
+</td>
+<td width="50%">
+
+### 🎬 [Archivum](https://github.com/ANUSHREE-CYBER/Archivum)
+Personal media vault — movies, anime, kdramas, manga  
+`React 19` `TypeScript` `Supabase` `Tailwind`  
+*design philosophy: "restraint is premium"*
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🧠 [Stress Detection](https://github.com/ANUSHREE-CYBER/stress-detection-wesad-ml)
+Multimodal stress detection via biosignals + facial expressions  
+`XGBoost` `MobileNetV2 CNN` `Streamlit`  
+*Best Paper Award @ ICNDSA 2026 (IEEE Xplore)*
+
+</td>
+<td width="50%">
+
+### 🗳️ [VoterLantern](https://github.com/ANUSHREE-CYBER/VoterLantern)
+Voter awareness & information tool  
+`TypeScript`
+
+</td>
+</tr>
+</table>
 
 ---
 
 ## 📈 GitHub Analytics
 
-<div align="center">
+<p align="center">
+  <a href="https://github.com/ANUSHREE-CYBER">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ANUSHREE-CYBER&show_icons=true&bg_color=0D1117&title_color=EF93C4&icon_color=FF69B4&text_color=F8BBD0&hide_border=true&count_private=true" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ANUSHREE-CYBER&layout=compact&bg_color=0D1117&title_color=EF93C4&text_color=F8BBD0&hide_border=true" />
+  </a>
+</p>
 
-<img src="https://github-readme-stats.vercel.app/api?username=ANUSHREE-CYBER&show_icons=true&hide_border=true&bg_color=0D1117&title_color=EF93C4&text_color=FFFFFF&icon_color=F8BBD0&ring_color=EF93C4" width="49%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ANUSHREE-CYBER&layout=compact&hide_border=true&bg_color=0D1117&title_color=EF93C4&text_color=FFFFFF" width="41%" />
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=ANUSHREE-CYBER&hide_border=true&background=0D1117&ring=EF93C4&fire=FF69B4&currStreakLabel=F8BBD0&sideLabels=F8BBD0&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=AAAAAA" />
+</p>
 
-</div>
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=ANUSHREE-CYBER&hide_border=true&background=0D1117&ring=EF93C4&fire=EF93C4&currStreakLabel=F8BBD0&sideLabels=F8BBD0&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=AAAAAA)](https://git.io/streak-stats)
-
-</div>
-
-<div align="center">
-
-[![Anushree's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ANUSHREE-CYBER&bg_color=0D1117&color=F8BBD0&line=EF93C4&point=FF69B4&area=true&area_color=F8BBD0&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ANUSHREE-CYBER&bg_color=0D1117&color=F8BBD0&line=EF93C4&point=FF69B4&area=true&area_color=F8BBD0&hide_border=true" />
+</p>
 
 ---
 
 ## 🏆 Trophies
 
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=ANUSHREE-CYBER&theme=radical&no-frame=true&no-bg=true&row=1&column=7&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ANUSHREE-CYBER&theme=radical&no-frame=true&row=1&column=7&margin-w=10" />
+</p>
 
 ---
 
-## 🐍 Watch My Contributions Get Eaten
+## 🐍 Contribution Snake
 
-<div align="center">
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ANUSHREE-CYBER/ANUSHREE-CYBER/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</p>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/ANUSHREE-CYBER/ANUSHREE-CYBER/raw/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/ANUSHREE-CYBER/ANUSHREE-CYBER/raw/output/github-snake.svg" />
-  <img alt="github-snake" src="https://github.com/ANUSHREE-CYBER/ANUSHREE-CYBER/raw/output/github-snake-dark.svg" />
-</picture>
-
-</div>
+<!-- ⚠️ The snake requires a GitHub Action — see the setup instructions below -->
 
 ---
 
-## 💭 Random Dev Quote
+## 🎵 Vibes While Coding
 
-<div align="center">
+```text
+🎧 what's on the playlist rn:
 
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&border=true&quote_color=F8BBD0&author_color=EF93C4)](https://github.com/piyushsuthar/github-readme-quotes)
+██████████████████░░   K-pop / BTS 💜
+█████████████░░░░░░░   Lo-fi / Chillhop ☕
+█████████░░░░░░░░░░░   Anime OSTs / J-pop 🌸
+```
 
-</div>
+<p align="center"><i>"music is the compiler for the soul" 🎶</i></p>
+
+---
+
+## 😂 A Joke to Brighten Your Day
+
+> *(refreshes every time someone visits — go ahead, reload the page)*
+
+<p align="center">
+  <img src="https://readme-jokes.vercel.app/api?bgColor=0D1117&textColor=F8BBD0&aColor=EF93C4&borderColor=EF93C4" alt="Jokes Card" />
+</p>
+
+---
+
+## 🌸 Words to Code By
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&border=true" alt="Random Dev Quote" />
+</p>
+
+<p align="center">
+  <em>"She believed she could, so she coded it." 🌸</em>
+</p>
 
 ---
 
 ## 🌐 Let's Connect
 
-<div align="center">
+<p align="center">
+  <a href="https://www.linkedin.com/in/anushree-kanoongo-4a5b17286"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;
+  <a href="mailto:anushree.kanoongo@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;
+  <a href="https://github.com/ANUSHREE-CYBER"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+</p>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anushree-kanoongo/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ANUSHREE-CYBER)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anushreekanoongo@gmail.com)
+<p align="center"><i>See you in the next commit 🌸</i></p>
 
-</div>
-
-<div align="center">
-
-*See you in the next commit* 🌸
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFB6C1,50:EF93C4,100:D16BA5&height=140&section=footer" width="100%"/>
+<!-- Footer Wave -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FFB6C1,50:EF93C4,100:D16BA5&height=140&section=footer" />
