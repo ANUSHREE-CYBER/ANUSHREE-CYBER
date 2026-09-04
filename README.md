@@ -24,12 +24,12 @@
 <tr>
 <td>
 
-🔭 Building AI-powered tools that solve real-world problems  
+🔭 Building AI-powered tools to create the solutions I wish existed.   
 🧠 2x Published Researcher — **Best Paper Award** @ ICNDSA 2026 (IEEE Xplore)  
 📖 Currently learning **System Design**, **DSA** & **Cloud Architecture**  
 🏎️ F1 fan — nothing like a good race to reset the brain  
 🌸 Anime & manga enthusiast — always chasing the next great arc  
-💜 Proud BTS ARMY — OT7 forever  
+🕹️ Dev by day, gamer by night.  
 ⚡ Fun fact: I debug better with K-pop on full volume  
 
 </td>
@@ -50,7 +50,6 @@
 🛠️ Building    →  ShipGate — pre-shipment return-risk scorer for e-commerce
 📖 Learning    →  System Design · DSA · Cloud & DevOps
 📝 Published   →  Best Paper @ ICNDSA 2026 (IEEE) + IGI Global book chapter
-🎯 Goal        →  Create products that ship and actually get used
 ```
 
 ---
