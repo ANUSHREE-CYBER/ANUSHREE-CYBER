@@ -35,22 +35,11 @@
 </td>
 <td>
 
-<img src="https://raw.githubusercontent.com/ANUSHREE-CYBER/ANUSHREE-CYBER/main/your-image-filename.png" width="320"/>
+<img src="https://github.com/user-attachments/assets/6295c842-0bf9-4784-9aa2-8bfa0e9e822d" width="320"/>
 
 </td>
 </tr>
 </table>
-
----
-
-## 🚀 What I'm Currently Up To
-
-```text
-🔬 Research    →  Multimodal stress detection (biosignals + facial expressions)
-🛠️ Building    →  ShipGate — pre-shipment return-risk scorer for e-commerce
-📖 Learning    →  System Design · DSA · Cloud & DevOps
-📝 Published   →  Best Paper @ ICNDSA 2026 (IEEE) + IGI Global book chapter
-```
 
 ---
 
@@ -217,5 +206,5 @@ Voter awareness & information tool
 
 
 
-<img width="735" height="1024" alt="image" src="https://github.com/user-attachments/assets/6295c842-0bf9-4784-9aa2-8bfa0e9e822d" />
+
 
