@@ -25,7 +25,7 @@
 <td>
 
 🔭 Building AI-powered tools to create the solutions I wish existed.   
-🧠 2x Published Researcher — **Best Paper Award** @ ICNDSA 2026 (IEEE Xplore) & Book Chapter under IGI Global
+🧠 2x Published Researcher — **Best Paper Award** @ ICNDSA 2026 (IEEE Xplore) & Book Chapter under IGI Global  
 📖 Currently learning **System Design**, **DSA** & **Cloud Architecture**  
 🏎️ F1 fan — nothing like a good race to reset the brain  
 🌸 Anime & manga enthusiast — always chasing the next great arc  
@@ -173,7 +173,7 @@ Voter awareness & information tool
 > *(refreshes every time someone visits — go ahead, reload the page)*
 
 <p align="center">
-  <img src="https://readme-jokes.vercel.app/api?bgColor=0D1117&textColor=FFFFFF&aColor=EF93C4&borderColor=EF93C4&qColor=F8BBD0" alt="Jokes Card" />
+  <img src="https://readme-jokes.vercel.app/api?bgColor=%230D1117&textColor=%23FFFFFF&aColor=%23EF93C4&borderColor=%23EF93C4&qColor=%23F8BBD0" alt="Jokes Card" />
 </p>
 
 ---
