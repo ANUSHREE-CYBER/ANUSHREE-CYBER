@@ -30,7 +30,7 @@
 🏎️ F1 fan — nothing like a good race to reset the brain  
 🌸 Anime & manga enthusiast — always chasing the next great arc  
 🕹️ Dev by day, gamer by night.  
-⚡ Fun fact: I debug better with K-pop on full volume  
+🎵 Fun fact: I debug better with Spotify on full volume  
 
 </td>
 <td>
