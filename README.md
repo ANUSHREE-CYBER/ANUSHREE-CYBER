@@ -66,10 +66,11 @@
 
 ```text
 🤖 AI Gizmo — AI/ML Engineer Intern                          2026 | Remote (Birmingham, UK)
+├── Built Magic Lift & Shift: any table (paste, screenshot, photo) → live editable data with 100% fidelity
 ├── Built SafeClip: safety walkthrough videos → hazard action registers
 ├── Built Fuse Documents: SVG/PDF geometry diff engine + AI change descriptions
-├── Production-grade pipelines with FastAPI, MongoDB, Redis
-└── Stack: Python · FastAPI · MongoDB · Redis · Gemini AI · OpenCV
+├── 127 automated tests, 7-container Docker architecture, configurable AI model registry
+└── Stack: Python · FastAPI · MongoDB · Redis · Docker · Gemini AI · OpenCV
 
 🌐 Upvalue Pvt Ltd — Frontend Dev Intern                      Jul–Nov 2026 | Jaipur
 ├── Built SmartValue: multi-page responsive trade-in platform
