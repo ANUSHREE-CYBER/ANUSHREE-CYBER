@@ -24,9 +24,8 @@
 <tr>
 <td>
 
-  🔭 Building AI-powered tools to create the solutions I wish existed.   
+🔭 Building AI-powered tools to create the solutions I wish existed.   
 🧠 2x Published Researcher — **Best Paper Award** @ ICNDSA 2026 (IEEE Xplore) & Book Chapter under IGI Global
-
 📖 Currently learning **System Design**, **DSA** & **Cloud Architecture**  
 🏎️ F1 fan — nothing like a good race to reset the brain  
 🌸 Anime & manga enthusiast — always chasing the next great arc  
