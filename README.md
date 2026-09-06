@@ -173,7 +173,7 @@ Voter awareness & information tool
 > *(refreshes every time someone visits — go ahead, reload the page)*
 
 <p align="center">
-  <img src="https://readme-jokes.vercel.app/api?bgColor=0D1117&textColor=F8BBD0&aColor=EF93C4&borderColor=EF93C4" alt="Jokes Card" />
+  <img src="https://readme-jokes.vercel.app/api?bgColor=0D1117&textColor=FFFFFF&aColor=EF93C4&borderColor=EF93C4&qColor=F8BBD0" alt="Jokes Card" />
 </p>
 
 ---
