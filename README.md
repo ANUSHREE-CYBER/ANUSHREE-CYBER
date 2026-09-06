@@ -35,7 +35,7 @@
 </td>
 <td>
 
-<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="280"/>
+<img src="https://raw.githubusercontent.com/ANUSHREE-CYBER/ANUSHREE-CYBER/main/your-image-filename.png" width="320"/>
 
 </td>
 </tr>
@@ -213,3 +213,9 @@ Voter awareness & information tool
 
 <!-- Footer Wave -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FFB6C1,50:EF93C4,100:D16BA5&height=140&section=footer" />
+
+
+
+
+<img width="735" height="1024" alt="image" src="https://github.com/user-attachments/assets/6295c842-0bf9-4784-9aa2-8bfa0e9e822d" />
+
