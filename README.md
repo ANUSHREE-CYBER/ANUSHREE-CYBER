@@ -102,7 +102,7 @@ Personal media vault — movies, anime, kdramas, manga
 ### 🧠 [Stress Detection](https://github.com/ANUSHREE-CYBER/stress-detection-wesad-ml)
 Multimodal stress detection via biosignals + facial expressions  
 `XGBoost` `MobileNetV2 CNN` `Streamlit`  
-*Best Paper Award @ ICNDSA 2026 (IEEE Xplore)*
+
 
 </td>
 <td width="50%">
